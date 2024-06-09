@@ -1,5 +1,4 @@
 # British Airways Reviews Analysis
-<br>
 
 ## Business Understanding
 ### The objective of this data science project is to:
@@ -24,6 +23,27 @@ Columns of the population dataset include:
 <br>
 
 ## Analysis
+### WordCloud of Positive and Negative Reviews
+<img src="BA_Analysis(2).png" width="550" height="650">
+<ul>
+  <li>Passengers are appreciating both good service and poor service experiences equally.</li>
+  <li>Seating and Comfort are factors that contributes both satisfaction and dissatisfaction among passengers.</li>
+  <li>Flight Delays and Cancellations are major contributors in negative reviews. It indicates need of punctuality regarding flight schedules.</li>
+  <li>Luggage Handling and Receiving are common complaints that to be attended to improve satisfaction of passenger.</li>
+  <li>On other hand, Passengers had good experience with in-flight services, friendly staff and comfortable seating, specially in business and first class.</li>
+</ul>
+
+<br>
+
 ### Distribution of Sentiment Polarity using TextBlob
+<img src='BA_Analysis(1).png' width="550" height="350">
+<ul>
+	<li>The positive correlation indicates that Passengers who highly rate their experience are more likely to express positive sentiments.</li>
+	<li>Ratings in the range of 5-7 often indicates that passengers might have both positive and negative experiences, leads to overall average rating.</li>
+	<li>Low rating reviews involves a mix of negative and neutral sentiments. It shows that low ratings could be due to specific incidents of service that negatively impacted the experience of passengers.</li>
+</ul> 
 
+## Author
+### Tushar Mukherjee 
 
+<a href="mukherjeetushar78@gmail.com">E-mail</a> || <a href="www.linkedin.com/in/tushar-mukherjee-b8516028a">LinkedIn</a> || <a href="https://github.com/GocoVoid">GitHub</a>
