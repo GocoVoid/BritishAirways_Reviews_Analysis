@@ -46,4 +46,4 @@ Columns of the dataset include:
 ## Author
 ### Tushar Mukherjee 
 
-<a href="mukherjeetushar78@gmail.com">E-mail</a> || <a href="www.linkedin.com/in/tushar-mukherjee-b8516028a">LinkedIn</a> || <a href="https://github.com/GocoVoid">GitHub</a>
+<a href="mailto: mukherjeetushar78@gmail.com">E-mail</a> || <a href="www.linkedin.com/in/tushar-mukherjee-b8516028a">LinkedIn</a> || <a href="https://github.com/GocoVoid">GitHub</a>
