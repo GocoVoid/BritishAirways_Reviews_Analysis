@@ -12,7 +12,7 @@
 
 ## Data Understanding
  The datasets is obtained from the Airlines Quality Review website <a href="https://www.airlinequality.com/airline-reviews/british-airways/">Skytrax.</a> The dataset contains information about the reviews of several passengers, nearly 100, who had travelled in British Airways, along with additional details such as name, date and ratings.
-Columns of the population dataset include:
+Columns of the dataset include:
 <ul>
   <li><code>Passenger</code> : The name of passenger.</li>
   <li><code>Date of Publication</code> : The date of publication of review by passenger.</li>
