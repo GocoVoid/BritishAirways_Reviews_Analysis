@@ -1,7 +1,7 @@
 # British Airways Reviews Analysis
 
 ## Business Understanding
-### The objective of this data science project is to:
+### The objective of this data science project is:
 <ul>
   <li>To scrape data of passenger of British Airways from Skytrax</li>
   <li>To store and analyze passenger reviews through sentiment analysis </li>
