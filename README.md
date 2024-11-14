@@ -1,5 +1,11 @@
 # British Airways Reviews Analysis
 
+<br>
+
+<img src="BritishAirwaysLogo.png" width=600 height=200>
+
+<br>
+
 ## Business Understanding
 ### The objective of this data science project is:
 <ul>
